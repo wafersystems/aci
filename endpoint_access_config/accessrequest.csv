@@ -1,0 +1,4 @@
+hostname,mode,IP,leaf,port
+NFS-1,untag,172.31.54.93/25,105,41
+ESXI-1,tag,n/a,105,42
+BLADE-1,tag,n/a,105,43
