@@ -1,11 +1,11 @@
 #some login infomation
-apic = "172.31.56.230"
+apic = "192.168.0.230"
 
 usrpwd = {
     "aaaUser": {
         "attributes": {
             "name":"admin",
-            "pwd":"Wafer!234"
+            "pwd":"password"
         }
     }
 }
